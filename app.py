@@ -1,8 +1,14 @@
+# Author Normurodov Sherali
+# Date 12/01/2022
+
+
 class Person:
     def __int__(self):
         pass
+
     def __init__(self, name):
         self.name = name
+
     def base_func(self):
         print("I'm base class func")
 
